@@ -1,4 +1,3 @@
-# C-Programs
 # C Programs
 
 This repository contains 54 C programs written in C language with their problem statements.  
